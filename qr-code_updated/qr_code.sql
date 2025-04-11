@@ -33,26 +33,6 @@ CREATE TABLE `data` (
   `fullName` varchar(100) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Dumping data for table `data`
---
-
-INSERT INTO `data` (`id`, `student_id`, `fullName`) VALUES
-(1, '2025-0001', 'Sherwin Dave V. Osma'),
-(2, '2025-0002', 'Stefan Jan V. Osma'),
-(3, '2025-0003', 'Emelie De Rochefort'),
-(4, '2025-0004', 'Asuka Kazama'),
-(5, '2025-0005', 'Hatsune Miku'),
-(6, '2025-0006', 'Kanade Yoisaki'),
-(7, '2025-0007', 'Furina De Fontaine'),
-(8, '2025-0008', 'Ling Xiaoyu'),
-(9, '2025-0009', 'kamisato ayatollah'),
-(10, '2025-0010', 'kamisato ayato'),
-(11, '2025-0011', 'THE Herta'),
-(12, '2025-0012', 'Mao Mao Mao'),
-(13, '2025-0013', 'Hatsune Miku (Miku Miku Beeeeeaaaaaaammmmmm!!!!!)'),
-(14, '2025-0014', 'Hatsune Miku (you can call me miku miku oooeeeoooo)');
-
 -- --------------------------------------------------------
 
 --
